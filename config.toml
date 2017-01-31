@@ -1,0 +1,6 @@
+languageCode = "ko-kr"
+title = "Vasmani's Blog"
+baseurl = "https://vasmani.github.io/"
+[params]
+  description = "인생 로그"
+  author = "Vasmani"
